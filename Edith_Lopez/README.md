@@ -36,3 +36,7 @@
 
 11. Angular con Firebase 
     [Angular Firebase](https://github.com/Edith707/poblacion)
+
+12. Pruebas Lógicas 
+    [Pruebas Lógicas y Usabilidad](https://github.com/Edith707/PruebasAulasCMX)
+    En este repositorio pondré las pruebas lógicas y de usabilidad
